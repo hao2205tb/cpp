@@ -1,0 +1,42 @@
+class name: Adams
+fullName, doB, sex, phoneNumber, universityName, gradeLevel, gpa, bestRewardName, englishScore, entryTestScore
+Jonathan Thomas, 02/08/1966, female, 0909331716, Harrington PLC, Below Average, 3.64, loss, 97, 19
+Jeremy Williams, 26/01/1933, female, 0916132466, Burnett Group, Average, 3.95, market, 99, 17
+Zachary Trujillo, 01/11/1947, female, 0985594372, Freeman and Sons, Below Average, 3.01, community, 50, 56
+Sarah Rodriguez, 17/02/1965, male, 0911549989, Hartman-Oneal, Below Average, 2.45, size, 45, 94
+Anita Kim, 22/07/1945, male, 0356677026, Arnold-Dougherty, Below Average, 3.27, consumer, 73, 55
+William Lowe, 22/04/2006, male, 0315609983, Sanders Ltd, Average, 3.3, environment, 66, 13
+Jennifer Brown, 12/06/1911, male, 0907195360, Washington, Good, 3.65, evidence, 61, 22
+Jacob Smith, 20/05/1990, male, 0915313433, Gutierrez PLC, Average, 3.35, gas, 88, 24
+Jeff Cox, 29/06/1961, female, 0904764319, Richard, Good, 3.39, but, 16, 0
+Amanda Fernandez, 22/07/1923, female, 0318373880, Copeland, Good, 3.63, part, 23, 14
+Rodney Oliver, 10/09/1967, female, 0983091416, Brown-Robinson, Below Average, 1.89, class, 65, 87
+Sheryl Harris, 09/11/2014, female, 0981013043, Williams Ltd, Average, 3.21, daughter, 67, 64
+Veronica James MD, 17/04/1957, male, 0389598614, Henson-Hernandez, Average, 1.29, like, 85, 9
+Timothy Donovan, 06/10/1922, female, 0919976174, Clark, Excellent, 3.25, grow, 90, 69
+Jon Jackson, 20/05/2016, male, 0981434167, Green-Pacheco, Excellent, 2.11, recently, 71, 23
+Darryl Anderson, 31/01/2005, male, 0901998726, Hicks-Chambers, Below Average, 3.23, special, 21, 59
+Leah Moore, 23/03/1914, male, 0317426091, Bruce, Good, 3.4, beat, 27, 93
+Diana Carter, 03/07/1928, male, 0909919510, Smith-Hill, Excellent, 3.38, society, 9, 53
+Emily Becker, 12/09/2015, female, 0901871079, Mills, Below Average, 1.47, north, 34, 92
+Jennifer Velazquez, 01/01/2014, male, 0903893809, Nelson,  Good, 1.32, wear, 88, 88
+Kelly Evans, 08/11/1965, female, 0903733378, Sanchez-Cain, Weak, 2.64, certain, 31, 38
+Emily Larson, 03/03/2010, male, 0985504682, Anderson-Ward, Excellent, 2.74, television, 55, 72
+Kelly Davis, 05/03/2015, female, 0987635490, Smith-Benitez, Average, 1.49, attorney, 80, 38
+Dr. Zachary Moses, 28/05/1979, female, 0988875721, Vargas and Sons, Good, 3.51, check, 60, 32
+Mario Morrow, 29/02/1928, male, 0386860591, Bright PLC, Below Average, 2.75, mean, 63, 58
+David Gonzales, 24/11/2008, female, 0314291043, Sellers-Bradley, Average, 2.38, audience, 69, 58
+Madison Hawkins, 24/11/1977, male, 0389298386, Stewart-Cervantes, Average, 1.31, trouble, 16, 23
+Karen Branch, 13/03/1954, male, 0909653032, Griffith PLC, Weak, 2.06, paper, 94, 24
+Felicia Nguyen, 09/10/1923, male, 0356556828, Olson, Good, 3.55, key, 97, 71
+Cory Anderson, 10/10/1940, female, 0388212260, Dunn-Christian, Below Average, 2.96, large, 31, 0
+Pamela Martin, 19/08/1969, male, 0318837298, Mercado PLC, Weak, 1.24, hard, 53, 98
+Crystal Peterson, 21/07/1909, female, 0353017897, Riley, Excellent, 3.15, during, 94, 79
+Michael Cross, 19/04/1938, female, 0988452973, Boyer-Phillips, Average, 2.05, between, 81, 75
+Hailey Graham, 07/02/2007, female, 0312753325, Craig LLC, Average, 2.42, step, 47, 4
+Samuel Larsen, 27/11/1914, male, 0987134513, Johnson, Good, 2.25, past, 65, 35
+Amy Hughes, 30/10/2000, male, 0385654061, Fowler, Weak, 1.0, forget, 98, 39
+Chase Hamilton, 27/12/2019, female, 0917532490, Parker-Andrade, Weak, 3.14, old, 75, 36
+Derrick Oconnor, 13/04/1927, male, 0908912309, Martin-Spencer, Weak, 2.61, garden, 52, 19
+Theresa Gomez, 02/06/1995, female, 0319429418, Rhodes-Adams, Average, 3.51, change, 78, 46
+Tanya Carpenter, 03/08/1992, male, 0988346705, Sims, Good, 3.91, teacher, 46, 82
